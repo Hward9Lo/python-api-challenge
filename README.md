@@ -9,3 +9,5 @@ onecall api fix I resolved (OpenWeatherMap failed to retrieve data, onecall vers
 Linear Regression (Python Implementation): https://www.geeksforgeeks.org/linear-regression-python-implementation/
 
 hvplot/utils also requires pyproj: https://github.com/holoviz/geoviews/issues/299
+
+Plotting with Matplotlib: https://geo-python.github.io/site/2017/lessons/L7/matplotlib.html
